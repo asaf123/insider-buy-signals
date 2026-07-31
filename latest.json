@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:07:27.397843",
+  "generated_at": "2026-07-31T20:21:21.827996",
   "week": "2026-07-31",
   "top_signal": "SCTX",
   "rankings": [
@@ -75,7 +75,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 2360000000.0,
+      "market_cap": 2350000000.0,
       "cap_tier": "Mid Cap"
     },
     {
@@ -394,6 +394,33 @@
       "cap_tier": "Micro Cap"
     },
     {
+      "symbol": "CATLU",
+      "security": "Catalyst Acquisition Corp",
+      "total_amount": 2700000,
+      "open_market_amount": 2700000,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "CATLU",
+          "security": "Catalyst Acquisition Corp",
+          "reporting_name": "CATALYST SPONSOR LLC",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "270,000",
+          "price": "10",
+          "amount": 2700000.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
       "symbol": "STFS",
       "security": "Star Fashion Culture Holdings Ltd",
       "total_amount": 2600000,
@@ -609,7 +636,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 634640000.0,
+      "market_cap": 633890000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -663,8 +690,35 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 490250000.0,
+      "market_cap": 490740000.0,
       "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "HDSN",
+      "security": "HUDSON TECHNOLOGIES INC",
+      "total_amount": 312103,
+      "open_market_amount": 312103,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "HDSN",
+          "security": "HUDSON TECHNOLOGIES INC",
+          "reporting_name": "HARTREE PARTNERS, LP",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "52,104",
+          "price": "5.99",
+          "amount": 312103.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 254100000.0,
+      "cap_tier": "Micro Cap"
     },
     {
       "symbol": "BXSY",
@@ -984,7 +1038,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 67830000.0,
+      "market_cap": 68200000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1011,7 +1065,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 365740000.0,
+      "market_cap": 368230000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -1093,6 +1147,57 @@
         }
       ],
       "market_cap": 180170000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "HCWB",
+      "security": "HCW Biologics Inc",
+      "total_amount": 99994,
+      "open_market_amount": 99994,
+      "num_transactions": 3,
+      "num_insiders": 3,
+      "officer_director_count": 3,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "HCWB",
+          "security": "HCW Biologics Inc",
+          "reporting_name": "WONG HING C",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "23,210",
+          "price": "2.585",
+          "amount": 59998.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "HCWB",
+          "security": "HCW Biologics Inc",
+          "reporting_name": "GARRETT SCOTT T",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "7,736",
+          "price": "2.585",
+          "amount": 19998.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "HCWB",
+          "security": "HCW Biologics Inc",
+          "reporting_name": "FLOWERS LEE",
+          "relationship": "SVP of Business Development",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "7,736",
+          "price": "2.585",
+          "amount": 19998.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 3910000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1257,7 +1362,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 14880000.0,
+      "market_cap": 14970000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1437,7 +1542,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 13720000000.0,
+      "market_cap": 13680000000.0,
       "cap_tier": "Large Cap"
     },
     {
@@ -1596,7 +1701,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 397910000.0,
+      "market_cap": 400610000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -1725,7 +1830,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 117720000.0,
+      "market_cap": 116360000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1842,7 +1947,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 462380.0,
+      "market_cap": 470280.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1947,7 +2052,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 484740.0,
+      "market_cap": 479190.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1976,33 +2081,6 @@
       ],
       "market_cap": 5000000000.0,
       "cap_tier": "Mid Cap"
-    },
-    {
-      "symbol": "HCWB",
-      "security": "HCW Biologics Inc",
-      "total_amount": 19998,
-      "open_market_amount": 19998,
-      "num_transactions": 1,
-      "num_insiders": 1,
-      "officer_director_count": 1,
-      "cluster_buy": false,
-      "insider_grade": true,
-      "top_rows": [
-        {
-          "symbol": "HCWB",
-          "security": "HCW Biologics Inc",
-          "reporting_name": "GARRETT SCOTT T",
-          "relationship": "Director",
-          "trans_date": "29 Jul 2026",
-          "open_market": true,
-          "shares": "7,736",
-          "price": "2.585",
-          "amount": 19998.0,
-          "dir_ind": "I"
-        }
-      ],
-      "market_cap": 3910000.0,
-      "cap_tier": "Micro Cap"
     },
     {
       "symbol": "CBNA",
@@ -2307,7 +2385,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 467660000.0,
+      "market_cap": 466140000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -2336,6 +2414,45 @@
       ],
       "market_cap": 13540000.0,
       "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "GF",
+      "security": "NEW GERMANY FUND INC",
+      "total_amount": 4782,
+      "open_market_amount": 4782,
+      "num_transactions": 2,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "GF",
+          "security": "NEW GERMANY FUND INC",
+          "reporting_name": "SABA CAPITAL MANAGEMENT, L.P.",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "325",
+          "price": "11.28",
+          "amount": 3666.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "GF",
+          "security": "NEW GERMANY FUND INC",
+          "reporting_name": "SABA CAPITAL MANAGEMENT, L.P.",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "100",
+          "price": "11.16",
+          "amount": 1116.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
     },
     {
       "symbol": "GVH",
@@ -2388,35 +2505,8 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 9230000.0,
+      "market_cap": 9380000.0,
       "cap_tier": "Micro Cap"
-    },
-    {
-      "symbol": "GF",
-      "security": "NEW GERMANY FUND INC",
-      "total_amount": 3666,
-      "open_market_amount": 3666,
-      "num_transactions": 1,
-      "num_insiders": 1,
-      "officer_director_count": 0,
-      "cluster_buy": false,
-      "insider_grade": false,
-      "top_rows": [
-        {
-          "symbol": "GF",
-          "security": "NEW GERMANY FUND INC",
-          "reporting_name": "SABA CAPITAL MANAGEMENT, L.P.",
-          "relationship": "10%",
-          "trans_date": "27 Jul 2026",
-          "open_market": true,
-          "shares": "325",
-          "price": "11.28",
-          "amount": 3666.0,
-          "dir_ind": "I"
-        }
-      ],
-      "market_cap": null,
-      "cap_tier": "Unclassified"
     },
     {
       "symbol": "TPL",
@@ -2571,7 +2661,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 278450000.0,
+      "market_cap": 283840000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2598,7 +2688,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 21600000.0,
+      "market_cap": 20950000.0,
       "cap_tier": "Micro Cap"
     },
     {
