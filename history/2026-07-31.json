@@ -1,0 +1,2791 @@
+{
+  "generated_at": "2026-07-31T23:07:27.397843",
+  "week": "2026-07-31",
+  "top_signal": "SCTX",
+  "rankings": [
+    {
+      "symbol": "NMM",
+      "security": "Navios Maritime Partners L.P.",
+      "total_amount": 846540498,
+      "open_market_amount": 846540498,
+      "num_transactions": 6,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "NMM",
+          "security": "Navios Maritime Partners L.P.",
+          "reporting_name": "FRANGOU ANGELIKI",
+          "relationship": "See Remarks, 10%",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "1,131",
+          "price": "748,119",
+          "amount": 846122589.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NMM",
+          "security": "Navios Maritime Partners L.P.",
+          "reporting_name": "FRANGOU ANGELIKI",
+          "relationship": "See Remarks, 10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "1,084",
+          "price": "79.019",
+          "amount": 85657.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NMM",
+          "security": "Navios Maritime Partners L.P.",
+          "reporting_name": "FRANGOU ANGELIKI",
+          "relationship": "See Remarks, 10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "1,072",
+          "price": "78.5875",
+          "amount": 84246.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NMM",
+          "security": "Navios Maritime Partners L.P.",
+          "reporting_name": "FRANGOU ANGELIKI",
+          "relationship": "See Remarks, 10%",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "1,068",
+          "price": "78.3705",
+          "amount": 83700.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NMM",
+          "security": "Navios Maritime Partners L.P.",
+          "reporting_name": "FRANGOU ANGELIKI",
+          "relationship": "See Remarks, 10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "1,051",
+          "price": "78.5495",
+          "amount": 82556.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 2360000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "SCTX",
+      "security": "Scribe Therapeutics Inc",
+      "total_amount": 71344746,
+      "open_market_amount": 71344746,
+      "num_transactions": 9,
+      "num_insiders": 6,
+      "officer_director_count": 5,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "SCTX",
+          "security": "Scribe Therapeutics Inc",
+          "reporting_name": "AGHAZADEH BEHZAD",
+          "relationship": "Director , 10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "2,333,333",
+          "price": "15",
+          "amount": 34999995.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "SCTX",
+          "security": "Scribe Therapeutics Inc",
+          "reporting_name": "ORBIMED ADVISORS LLC",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "1,000,000",
+          "price": "15",
+          "amount": 15000000.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "SCTX",
+          "security": "Scribe Therapeutics Inc",
+          "reporting_name": "GORDON CARL L",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "1,000,000",
+          "price": "15",
+          "amount": 15000000.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "SCTX",
+          "security": "Scribe Therapeutics Inc",
+          "reporting_name": "AH BIO FUND II, L.P.",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "333,333",
+          "price": "15",
+          "amount": 4999995.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "SCTX",
+          "security": "Scribe Therapeutics Inc",
+          "reporting_name": "AGHAZADEH BEHZAD",
+          "relationship": "Director , 10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "50,000",
+          "price": "22.31",
+          "amount": 1115500.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 367480000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "COE",
+      "security": "51Talk Online Education Group",
+      "total_amount": 28546295,
+      "open_market_amount": 28546295,
+      "num_transactions": 8,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "COE",
+          "security": "51Talk Online Education Group",
+          "reporting_name": "HUANG JACK JIAJIA",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "21 Jul 2026",
+          "open_market": true,
+          "shares": "498,660",
+          "price": "16.62",
+          "amount": 8287729.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "COE",
+          "security": "51Talk Online Education Group",
+          "reporting_name": "HUANG JACK JIAJIA",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "451,320",
+          "price": "16.97",
+          "amount": 7658900.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "COE",
+          "security": "51Talk Online Education Group",
+          "reporting_name": "HUANG JACK JIAJIA",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "301,440",
+          "price": "15.84",
+          "amount": 4774810.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "COE",
+          "security": "51Talk Online Education Group",
+          "reporting_name": "HUANG JACK JIAJIA",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "185,880",
+          "price": "16.26",
+          "amount": 3022409.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "COE",
+          "security": "51Talk Online Education Group",
+          "reporting_name": "HUANG JACK JIAJIA",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "22 Jul 2026",
+          "open_market": true,
+          "shares": "123,780",
+          "price": "15.98",
+          "amount": 1978004.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 102810000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "MLPT",
+      "security": "MapLight Therapeutics Inc",
+      "total_amount": 15314794,
+      "open_market_amount": 15314794,
+      "num_transactions": 4,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "MLPT",
+          "security": "MapLight Therapeutics Inc",
+          "reporting_name": "CATALYST4, INC.",
+          "relationship": "10%",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "1,000,000",
+          "price": "13",
+          "amount": 13000000.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "MLPT",
+          "security": "MapLight Therapeutics Inc",
+          "reporting_name": "CATALYST4, INC.",
+          "relationship": "10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "141,088",
+          "price": "10.7416",
+          "amount": 1515511.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "MLPT",
+          "security": "MapLight Therapeutics Inc",
+          "reporting_name": "CATALYST4, INC.",
+          "relationship": "10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "65,137",
+          "price": "11.6891",
+          "amount": 761393.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "MLPT",
+          "security": "MapLight Therapeutics Inc",
+          "reporting_name": "CATALYST4, INC.",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "3,000",
+          "price": "12.63",
+          "amount": 37890.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "GSHD",
+      "security": "Goosehead Insurance Inc",
+      "total_amount": 9104027,
+      "open_market_amount": 9104027,
+      "num_transactions": 7,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "GSHD",
+          "security": "Goosehead Insurance Inc",
+          "reporting_name": "DURABLE CAPITAL PARTNERS LP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "36,000",
+          "price": "58.5",
+          "amount": 2106000.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "GSHD",
+          "security": "Goosehead Insurance Inc",
+          "reporting_name": "DURABLE CAPITAL PARTNERS LP",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "33,207",
+          "price": "61.87",
+          "amount": 2054517.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "GSHD",
+          "security": "Goosehead Insurance Inc",
+          "reporting_name": "DURABLE CAPITAL PARTNERS LP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "31,000",
+          "price": "57.75",
+          "amount": 1790250.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "GSHD",
+          "security": "Goosehead Insurance Inc",
+          "reporting_name": "DURABLE CAPITAL PARTNERS LP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "25,000",
+          "price": "58.75",
+          "amount": 1468750.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "GSHD",
+          "security": "Goosehead Insurance Inc",
+          "reporting_name": "DURABLE CAPITAL PARTNERS LP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "21,646",
+          "price": "58.46",
+          "amount": 1265425.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 2200000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "MTAK",
+      "security": "Market Technology Acquisition Corp",
+      "total_amount": 4525000,
+      "open_market_amount": 4525000,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "MTAK",
+          "security": "Market Technology Acquisition Corp",
+          "reporting_name": "MARKET TECHNOLOGY ACQUISITION SPONSOR LLC",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "452,500",
+          "price": "10",
+          "amount": 4525000.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 272440000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "STFS",
+      "security": "Star Fashion Culture Holdings Ltd",
+      "total_amount": 2600000,
+      "open_market_amount": 2600000,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "STFS",
+          "security": "Star Fashion Culture Holdings Ltd",
+          "reporting_name": "ZHANG PINGTING",
+          "relationship": "Chief Financial Officer",
+          "trans_date": "22 Jul 2026",
+          "open_market": true,
+          "shares": "2,000,000",
+          "price": "1.3",
+          "amount": 2600000.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 4940000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "ENR",
+      "security": "ENERGIZER HOLDINGS Inc",
+      "total_amount": 2473994,
+      "open_market_amount": 2473994,
+      "num_transactions": 6,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "ENR",
+          "security": "ENERGIZER HOLDINGS Inc",
+          "reporting_name": "AQUA CAPITAL, LTD.",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "20,000",
+          "price": "21.0866",
+          "amount": 421732.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ENR",
+          "security": "ENERGIZER HOLDINGS Inc",
+          "reporting_name": "AQUA CAPITAL, LTD.",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "20,000",
+          "price": "20.9348",
+          "amount": 418696.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ENR",
+          "security": "ENERGIZER HOLDINGS Inc",
+          "reporting_name": "AQUA CAPITAL, LTD.",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "20,000",
+          "price": "20.9326",
+          "amount": 418652.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ENR",
+          "security": "ENERGIZER HOLDINGS Inc",
+          "reporting_name": "AQUA CAPITAL, LTD.",
+          "relationship": "10%",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "20,000",
+          "price": "20.3675",
+          "amount": 407350.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ENR",
+          "security": "ENERGIZER HOLDINGS Inc",
+          "reporting_name": "AQUA CAPITAL, LTD.",
+          "relationship": "10%",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "20,000",
+          "price": "20.2942",
+          "amount": 405884.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 1430000000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "ACI",
+      "security": "Albertsons Companies Inc",
+      "total_amount": 2412222,
+      "open_market_amount": 2412222,
+      "num_transactions": 3,
+      "num_insiders": 2,
+      "officer_director_count": 2,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "ACI",
+          "security": "Albertsons Companies Inc",
+          "reporting_name": "MORIARTY THOMAS M",
+          "relationship": "EVP, M&A and Corporate Affairs",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "170,500",
+          "price": "11.509",
+          "amount": 1962284.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ACI",
+          "security": "Albertsons Companies Inc",
+          "reporting_name": "MORRIS SUSAN",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "20,277",
+          "price": "11.455",
+          "amount": 232273.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ACI",
+          "security": "Albertsons Companies Inc",
+          "reporting_name": "MORRIS SUSAN",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "19,132",
+          "price": "11.377",
+          "amount": 217665.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 5620000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "BBASX",
+      "security": "AMG BBH Asset-Backed Credit Fund LLC",
+      "total_amount": 1121525,
+      "open_market_amount": 1121525,
+      "num_transactions": 2,
+      "num_insiders": 2,
+      "officer_director_count": 0,
+      "cluster_buy": true,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "BBASX",
+          "security": "AMG BBH Asset-Backed Credit Fund LLC",
+          "reporting_name": "AMG NEW YORK HOLDINGS CORP.",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "81,859.8",
+          "price": "10.96",
+          "amount": 897184.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "BBASX",
+          "security": "AMG BBH Asset-Backed Credit Fund LLC",
+          "reporting_name": "BROWN BROTHERS HARRIMAN CREDIT PARTNERS, LLC",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "20,465",
+          "price": "10.9622",
+          "amount": 224341.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "BWMX",
+      "security": "BETTERWARE DE MEXICO S.A.P.I. DE C.V",
+      "total_amount": 768480,
+      "open_market_amount": 768480,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "BWMX",
+          "security": "BETTERWARE DE MEXICO S.A.P.I. DE C.V",
+          "reporting_name": "CAMPOS LUIS",
+          "relationship": "Director , 10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "46,830",
+          "price": "16.41",
+          "amount": 768480.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 634640000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "CVBF",
+      "security": "CVB FINANCIAL CORP",
+      "total_amount": 455300,
+      "open_market_amount": 455300,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "CVBF",
+          "security": "CVB FINANCIAL CORP",
+          "reporting_name": "O BRIEN RAYMOND V III",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "20,000",
+          "price": "22.765",
+          "amount": 455300.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 3940000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "ARTV",
+      "security": "Artiva Biotherapeutics Inc",
+      "total_amount": 412777,
+      "open_market_amount": 412777,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "ARTV",
+          "security": "Artiva Biotherapeutics Inc",
+          "reporting_name": "RA CAPITAL MANAGEMENT, L.P.",
+          "relationship": "Director , 10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "41,319",
+          "price": "9.99",
+          "amount": 412777.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 490250000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "BXSY",
+      "security": "BEXIL INVESTMENT TRUST",
+      "total_amount": 278610,
+      "open_market_amount": 278610,
+      "num_transactions": 4,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "BXSY",
+          "security": "BEXIL INVESTMENT TRUST",
+          "reporting_name": "WINMILL & CO. INC",
+          "relationship": "See Explanation of Responses",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "5,000",
+          "price": "17.0271",
+          "amount": 85136.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "BXSY",
+          "security": "BEXIL INVESTMENT TRUST",
+          "reporting_name": "WINMILL & CO. INC",
+          "relationship": "See Explanation of Responses",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "4,700",
+          "price": "16.9346",
+          "amount": 79593.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "BXSY",
+          "security": "BEXIL INVESTMENT TRUST",
+          "reporting_name": "WINMILL & CO. INC",
+          "relationship": "See Explanation of Responses",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "4,700",
+          "price": "16.93",
+          "amount": 79571.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "BXSY",
+          "security": "BEXIL INVESTMENT TRUST",
+          "reporting_name": "WINMILL & CO. INC",
+          "relationship": "See Explanation of Responses",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "2,029",
+          "price": "16.91",
+          "amount": 34310.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "LBRT",
+      "security": "Liberty Energy Inc",
+      "total_amount": 250009,
+      "open_market_amount": 250009,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "LBRT",
+          "security": "Liberty Energy Inc",
+          "reporting_name": "MURTI ARJUN N",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "14,053.3",
+          "price": "17.79",
+          "amount": 250009.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 3040000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "COSM",
+      "security": "Cosmos Health Inc",
+      "total_amount": 210000,
+      "open_market_amount": 210000,
+      "num_transactions": 2,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "COSM",
+          "security": "Cosmos Health Inc",
+          "reporting_name": "SIOKAS GRIGORIOS",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "766,284",
+          "price": "0.1827",
+          "amount": 140000.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "COSM",
+          "security": "Cosmos Health Inc",
+          "reporting_name": "SIOKAS GRIGORIOS",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "349,825",
+          "price": "0.2001",
+          "amount": 70000.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 11680000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "MPLT",
+      "security": "MapLight Therapeutics Inc",
+      "total_amount": 148702,
+      "open_market_amount": 148702,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "MPLT",
+          "security": "MapLight Therapeutics Inc",
+          "reporting_name": "COX TROY",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "15,620",
+          "price": "9.52",
+          "amount": 148702.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 594030000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "KRNY",
+      "security": "Kearny Financial Corp",
+      "total_amount": 138273,
+      "open_market_amount": 138273,
+      "num_transactions": 4,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "KRNY",
+          "security": "Kearny Financial Corp",
+          "reporting_name": "FIELDS CURTLAND E",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "9,742",
+          "price": "9.41",
+          "amount": 91672.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "KRNY",
+          "security": "Kearny Financial Corp",
+          "reporting_name": "FIELDS CURTLAND E",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "3,900",
+          "price": "9.3999",
+          "amount": 36660.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "KRNY",
+          "security": "Kearny Financial Corp",
+          "reporting_name": "FIELDS CURTLAND E",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "700",
+          "price": "9.395",
+          "amount": 6576.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "KRNY",
+          "security": "Kearny Financial Corp",
+          "reporting_name": "FIELDS CURTLAND E",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "358",
+          "price": "9.4",
+          "amount": 3365.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 602890000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "MXF",
+      "security": "MEXICO FUND INC",
+      "total_amount": 121891,
+      "open_market_amount": 121891,
+      "num_transactions": 2,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "MXF",
+          "security": "MEXICO FUND INC",
+          "reporting_name": "SABA CAPITAL MANAGEMENT, L.P.",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "3,077",
+          "price": "21.34",
+          "amount": 65663.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "MXF",
+          "security": "MEXICO FUND INC",
+          "reporting_name": "SABA CAPITAL MANAGEMENT, L.P.",
+          "relationship": "10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "2,608",
+          "price": "21.56",
+          "amount": 56228.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "NNOX",
+      "security": "Nano-X Imaging Ltd.",
+      "total_amount": 109680,
+      "open_market_amount": 109680,
+      "num_transactions": 4,
+      "num_insiders": 3,
+      "officer_director_count": 3,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "NNOX",
+          "security": "Nano-X Imaging Ltd.",
+          "reporting_name": "MELTZER EREZ",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "36,000",
+          "price": "0.93",
+          "amount": 33480.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NNOX",
+          "security": "Nano-X Imaging Ltd.",
+          "reporting_name": "KAINAN NOGA",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "33,000",
+          "price": "0.9",
+          "amount": 29700.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "NNOX",
+          "security": "Nano-X Imaging Ltd.",
+          "reporting_name": "SUESSKIND DAN S",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "25,000",
+          "price": "0.94",
+          "amount": 23500.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "NNOX",
+          "security": "Nano-X Imaging Ltd.",
+          "reporting_name": "SUESSKIND DAN S",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "25,000",
+          "price": "0.92",
+          "amount": 23000.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 67830000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "NWFL",
+      "security": "NORWOOD FINANCIAL CORP",
+      "total_amount": 107105,
+      "open_market_amount": 107105,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "NWFL",
+          "security": "NORWOOD FINANCIAL CORP",
+          "reporting_name": "SHOOK JAMES",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "3,100",
+          "price": "34.55",
+          "amount": 107105.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 365740000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "BMI",
+      "security": "BADGER METER INC",
+      "total_amount": 101572,
+      "open_market_amount": 101572,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "BMI",
+          "security": "BADGER METER INC",
+          "reporting_name": "CALLAHAN EDWARD F.",
+          "relationship": "VP-Engineering",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "751",
+          "price": "135.2489",
+          "amount": 101572.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 3890000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "DRIO",
+      "security": "DarioHealth Corp",
+      "total_amount": 100000,
+      "open_market_amount": 100000,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "DRIO",
+          "security": "DarioHealth Corp",
+          "reporting_name": "MATHEIS DENNIS",
+          "relationship": "Director",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "14,430",
+          "price": "6.93",
+          "amount": 100000.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 51920000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "OTLK",
+      "security": "Outlook Therapeutics Inc",
+      "total_amount": 99996,
+      "open_market_amount": 99996,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "OTLK",
+          "security": "Outlook Therapeutics Inc",
+          "reporting_name": "SUKHTIAN FAISAL GHIATH",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "95,398",
+          "price": "1.0482",
+          "amount": 99996.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 180170000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "GLSI",
+      "security": "Greenwich LifeSciences Inc",
+      "total_amount": 97003,
+      "open_market_amount": 97003,
+      "num_transactions": 5,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "GLSI",
+          "security": "Greenwich LifeSciences Inc",
+          "reporting_name": "PATEL SNEHAL",
+          "relationship": "CEO and CFO, 10%",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "2,500",
+          "price": "13.14",
+          "amount": 32850.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "GLSI",
+          "security": "Greenwich LifeSciences Inc",
+          "reporting_name": "PATEL SNEHAL",
+          "relationship": "CEO and CFO, 10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "1,500",
+          "price": "13.62",
+          "amount": 20430.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "GLSI",
+          "security": "Greenwich LifeSciences Inc",
+          "reporting_name": "PATEL SNEHAL",
+          "relationship": "CEO and CFO, 10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "1,500",
+          "price": "13.59",
+          "amount": 20385.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "GLSI",
+          "security": "Greenwich LifeSciences Inc",
+          "reporting_name": "PATEL SNEHAL",
+          "relationship": "CEO and CFO, 10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "1,100",
+          "price": "12.88",
+          "amount": 14168.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "GLSI",
+          "security": "Greenwich LifeSciences Inc",
+          "reporting_name": "PATEL SNEHAL",
+          "relationship": "CEO and CFO, 10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "700",
+          "price": "13.1",
+          "amount": 9170.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 196830000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "MCB",
+      "security": "Metropolitan Bank Holding Corp",
+      "total_amount": 89980,
+      "open_market_amount": 89980,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "MCB",
+          "security": "Metropolitan Bank Holding Corp",
+          "reporting_name": "DOUGHERTY DANIEL F",
+          "relationship": "EVP & Chief Financial Officer",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "89.98",
+          "amount": 89980.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 1150000000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "NXTC",
+      "security": "NextCure Inc",
+      "total_amount": 87712,
+      "open_market_amount": 87712,
+      "num_transactions": 4,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "NXTC",
+          "security": "NextCure Inc",
+          "reporting_name": "ADAR1 CAPITAL MANAGEMENT, LLC",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "7,798",
+          "price": "4.9994",
+          "amount": 38985.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NXTC",
+          "security": "NextCure Inc",
+          "reporting_name": "ADAR1 CAPITAL MANAGEMENT, LLC",
+          "relationship": "10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "6,400",
+          "price": "4.9496",
+          "amount": 31677.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NXTC",
+          "security": "NextCure Inc",
+          "reporting_name": "ADAR1 CAPITAL MANAGEMENT, LLC",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "1,810",
+          "price": "5",
+          "amount": 9050.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NXTC",
+          "security": "NextCure Inc",
+          "reporting_name": "ADAR1 CAPITAL MANAGEMENT, LLC",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "1,600",
+          "price": "5",
+          "amount": 8000.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 14880000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "TSM",
+      "security": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+      "total_amount": 73820,
+      "open_market_amount": 73820,
+      "num_transactions": 3,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "TSM",
+          "security": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+          "reporting_name": "TIEN BOR-ZEN",
+          "relationship": "VP",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "67.97",
+          "amount": 67970.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "TSM",
+          "security": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+          "reporting_name": "TIEN BOR-ZEN",
+          "relationship": "VP",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "10",
+          "price": "390",
+          "amount": 3900.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "TSM",
+          "security": "TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD",
+          "reporting_name": "TIEN BOR-ZEN",
+          "relationship": "VP",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "5",
+          "price": "390",
+          "amount": 1950.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 1950000000000.0,
+      "cap_tier": "Large Cap"
+    },
+    {
+      "symbol": "OVLY",
+      "security": "Oak Valley Bancorp",
+      "total_amount": 65000,
+      "open_market_amount": 65000,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "OVLY",
+          "security": "Oak Valley Bancorp",
+          "reporting_name": "STRONG GARY",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "2,000",
+          "price": "32.5",
+          "amount": 65000.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 275950000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "AVBC",
+      "security": "Avidia Bancorp Inc",
+      "total_amount": 57834,
+      "open_market_amount": 57834,
+      "num_transactions": 5,
+      "num_insiders": 2,
+      "officer_director_count": 2,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "AVBC",
+          "security": "Avidia Bancorp Inc",
+          "reporting_name": "GILLES MICHAEL O",
+          "relationship": "Director",
+          "trans_date": "15 May 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "19.17",
+          "amount": 19170.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "AVBC",
+          "security": "Avidia Bancorp Inc",
+          "reporting_name": "GILLES MICHAEL O",
+          "relationship": "Director",
+          "trans_date": "15 May 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "19.1205",
+          "amount": 19120.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "AVBC",
+          "security": "Avidia Bancorp Inc",
+          "reporting_name": "GILLES MICHAEL O",
+          "relationship": "Director",
+          "trans_date": "15 May 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "18.916",
+          "amount": 18916.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "AVBC",
+          "security": "Avidia Bancorp Inc",
+          "reporting_name": "KARMELEK NICOLAS",
+          "relationship": "EVP and CRO",
+          "trans_date": "27 May 2026",
+          "open_market": true,
+          "shares": "19",
+          "price": "19.08",
+          "amount": 363.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "AVBC",
+          "security": "Avidia Bancorp Inc",
+          "reporting_name": "KARMELEK NICOLAS",
+          "relationship": "EVP and CRO",
+          "trans_date": "25 Feb 2026",
+          "open_market": true,
+          "shares": "14",
+          "price": "18.92",
+          "amount": 265.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 414120000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "MKC",
+      "security": "MCCORMICK & CO INC",
+      "total_amount": 55227,
+      "open_market_amount": 55227,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "MKC",
+          "security": "MCCORMICK & CO INC",
+          "reporting_name": "CONWAY MICHAEL AARON",
+          "relationship": "Director",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "1,100",
+          "price": "50.2067",
+          "amount": 55227.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 13720000000.0,
+      "cap_tier": "Large Cap"
+    },
+    {
+      "symbol": "EQBK",
+      "security": "EQUITY BANCSHARES INC",
+      "total_amount": 50429,
+      "open_market_amount": 50429,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "EQBK",
+          "security": "EQUITY BANCSHARES INC",
+          "reporting_name": "SCHLEHUBER LISA ANN",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "989.2",
+          "price": "50.98",
+          "amount": 50429.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 1050000000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "BFST",
+      "security": "Business First Bancshares Inc",
+      "total_amount": 47415,
+      "open_market_amount": 47415,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "BFST",
+          "security": "Business First Bancshares Inc",
+          "reporting_name": "DAY RICK D.",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "1,500",
+          "price": "31.61",
+          "amount": 47415.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 1040000000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "NTRS",
+      "security": "NORTHERN TRUST CORP",
+      "total_amount": 45790,
+      "open_market_amount": 45790,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "NTRS",
+          "security": "NORTHERN TRUST CORP",
+          "reporting_name": "MORITZ ROBERT EDWARD JR.",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "255",
+          "price": "179.57",
+          "amount": 45790.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 33360000000.0,
+      "cap_tier": "Large Cap"
+    },
+    {
+      "symbol": "BYRN",
+      "security": "Byrna Technologies Inc",
+      "total_amount": 44804,
+      "open_market_amount": 44804,
+      "num_transactions": 3,
+      "num_insiders": 2,
+      "officer_director_count": 2,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "BYRN",
+          "security": "Byrna Technologies Inc",
+          "reporting_name": "REED CHRIS LAVERN",
+          "relationship": "Director",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "8,150",
+          "price": "3.63",
+          "amount": 29584.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "BYRN",
+          "security": "Byrna Technologies Inc",
+          "reporting_name": "HUGHES HERBERT",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "2,501",
+          "price": "3.77",
+          "amount": 9429.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "BYRN",
+          "security": "Byrna Technologies Inc",
+          "reporting_name": "HUGHES HERBERT",
+          "relationship": "Director",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "1,499",
+          "price": "3.8633",
+          "amount": 5791.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 103250000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "PKBK",
+      "security": "PARKE BANCORP Inc",
+      "total_amount": 43784,
+      "open_market_amount": 43784,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "PKBK",
+          "security": "PARKE BANCORP Inc",
+          "reporting_name": "PANTILIONE VITO S",
+          "relationship": "President & CEO",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "1,300",
+          "price": "33.68",
+          "amount": 43784.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 397910000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "UROY",
+      "security": "Uranium Royalty Corp",
+      "total_amount": 43289,
+      "open_market_amount": 43289,
+      "num_transactions": 3,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "UROY",
+          "security": "Uranium Royalty Corp",
+          "reporting_name": "MELBYE SCOTT",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "5,850",
+          "price": "3.1298",
+          "amount": 18309.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "UROY",
+          "security": "Uranium Royalty Corp",
+          "reporting_name": "MELBYE SCOTT",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "4,000",
+          "price": "3.125",
+          "amount": 12500.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "UROY",
+          "security": "Uranium Royalty Corp",
+          "reporting_name": "MELBYE SCOTT",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "4,000",
+          "price": "3.12",
+          "amount": 12480.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 499150000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "PEBO",
+      "security": "PEOPLES BANCORP INC",
+      "total_amount": 39810,
+      "open_market_amount": 39810,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "PEBO",
+          "security": "PEOPLES BANCORP INC",
+          "reporting_name": "SMITH DWIGHT ERIC",
+          "relationship": "Director",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "39.8099",
+          "amount": 39810.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 1470000000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "ANIX",
+      "security": "Anixa Biosciences Inc",
+      "total_amount": 39134,
+      "open_market_amount": 39134,
+      "num_transactions": 3,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "ANIX",
+          "security": "Anixa Biosciences Inc",
+          "reporting_name": "KUMAR AMIT",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "5,000",
+          "price": "3.44",
+          "amount": 17200.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ANIX",
+          "security": "Anixa Biosciences Inc",
+          "reporting_name": "KUMAR AMIT",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "3,000",
+          "price": "3.73",
+          "amount": 11190.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ANIX",
+          "security": "Anixa Biosciences Inc",
+          "reporting_name": "KUMAR AMIT",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "3,188",
+          "price": "3.37",
+          "amount": 10744.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 117720000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "LOAN",
+      "security": "MANHATTAN BRIDGE CAPITAL INC",
+      "total_amount": 31920,
+      "open_market_amount": 31920,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "LOAN",
+          "security": "MANHATTAN BRIDGE CAPITAL INC",
+          "reporting_name": "RAN ASSAF",
+          "relationship": "President and CEO, 10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "8,000",
+          "price": "3.99",
+          "amount": 31920.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 48220000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "ASPS",
+      "security": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+      "total_amount": 29340,
+      "open_market_amount": 29340,
+      "num_transactions": 3,
+      "num_insiders": 2,
+      "officer_director_count": 2,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "ASPS",
+          "security": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+          "reporting_name": "SHEPRO WILLIAM B",
+          "relationship": "Chair and CEO",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "4,000",
+          "price": "5.18",
+          "amount": 20720.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "ASPS",
+          "security": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+          "reporting_name": "WINKLER MATTHEW T.",
+          "relationship": "Director",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "5.045",
+          "amount": 5045.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ASPS",
+          "security": "ALTISOURCE PORTFOLIO SOLUTIONS S.A.",
+          "reporting_name": "WINKLER MATTHEW T.",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "701",
+          "price": "5.1",
+          "amount": 3575.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 65319999.99999999,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "ZNB",
+      "security": "Zeta Network Group",
+      "total_amount": 28481,
+      "open_market_amount": 28481,
+      "num_transactions": 2,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "ZNB",
+          "security": "Zeta Network Group",
+          "reporting_name": "HRT FINANCIAL LP",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "8,925",
+          "price": "2.54",
+          "amount": 22670.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "ZNB",
+          "security": "Zeta Network Group",
+          "reporting_name": "HRT FINANCIAL LP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "21,929",
+          "price": "0.265",
+          "amount": 5811.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 462380.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "LBGJ",
+      "security": "Li Bang International Corp Inc",
+      "total_amount": 27785,
+      "open_market_amount": 27785,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "LBGJ",
+          "security": "Li Bang International Corp Inc",
+          "reporting_name": "HRT FINANCIAL LP",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "1,068,671",
+          "price": "0.026",
+          "amount": 27785.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 60450.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "CCFN",
+      "security": "MUNCY COLUMBIA FINANCIAL Corp",
+      "total_amount": 27482,
+      "open_market_amount": 27482,
+      "num_transactions": 3,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "CCFN",
+          "security": "MUNCY COLUMBIA FINANCIAL Corp",
+          "reporting_name": "SHANNON STEVEN H",
+          "relationship": "Director",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "500",
+          "price": "28.95",
+          "amount": 14475.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "CCFN",
+          "security": "MUNCY COLUMBIA FINANCIAL Corp",
+          "reporting_name": "SHANNON STEVEN H",
+          "relationship": "Director",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "350",
+          "price": "28.95",
+          "amount": 10132.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "CCFN",
+          "security": "MUNCY COLUMBIA FINANCIAL Corp",
+          "reporting_name": "SHANNON STEVEN H",
+          "relationship": "Director",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "100",
+          "price": "28.75",
+          "amount": 2875.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "LGHL",
+      "security": "Lion Group Holding Ltd",
+      "total_amount": 26428,
+      "open_market_amount": 26428,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "LGHL",
+          "security": "Lion Group Holding Ltd",
+          "reporting_name": "HRT FINANCIAL LP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "27,702",
+          "price": "0.954",
+          "amount": 26428.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 484740.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "FFIN",
+      "security": "FIRST FINANCIAL BANKSHARES INC",
+      "total_amount": 24423,
+      "open_market_amount": 24423,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "FFIN",
+          "security": "FIRST FINANCIAL BANKSHARES INC",
+          "reporting_name": "NICKLES ROBERT CLARK JR",
+          "relationship": "Director",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "700",
+          "price": "34.89",
+          "amount": 24423.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 5000000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "HCWB",
+      "security": "HCW Biologics Inc",
+      "total_amount": 19998,
+      "open_market_amount": 19998,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "HCWB",
+          "security": "HCW Biologics Inc",
+          "reporting_name": "GARRETT SCOTT T",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "7,736",
+          "price": "2.585",
+          "amount": 19998.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 3910000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "CBNA",
+      "security": "CHAIN BRIDGE BANCORP INC",
+      "total_amount": 17600,
+      "open_market_amount": 17600,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "CBNA",
+          "security": "CHAIN BRIDGE BANCORP INC",
+          "reporting_name": "MARTINELLI MARK",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "400",
+          "price": "44",
+          "amount": 17600.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 297970000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "JCTC",
+      "security": "JEWETT CAMERON TRADING CO LTD",
+      "total_amount": 16209,
+      "open_market_amount": 16209,
+      "num_transactions": 5,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "JCTC",
+          "security": "JEWETT CAMERON TRADING CO LTD",
+          "reporting_name": "AJB INVESTMENT FUND II, LP",
+          "relationship": "10%",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "3,700",
+          "price": "2.604",
+          "amount": 9635.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "JCTC",
+          "security": "JEWETT CAMERON TRADING CO LTD",
+          "reporting_name": "AJB INVESTMENT FUND II, LP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "1,024",
+          "price": "2.52",
+          "amount": 2580.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "JCTC",
+          "security": "JEWETT CAMERON TRADING CO LTD",
+          "reporting_name": "AJB INVESTMENT FUND II, LP",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "1,000",
+          "price": "2.525",
+          "amount": 2525.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "JCTC",
+          "security": "JEWETT CAMERON TRADING CO LTD",
+          "reporting_name": "AJB INVESTMENT FUND II, LP",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "423",
+          "price": "2.545",
+          "amount": 1077.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "JCTC",
+          "security": "JEWETT CAMERON TRADING CO LTD",
+          "reporting_name": "AJB INVESTMENT FUND II, LP",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "155",
+          "price": "2.527",
+          "amount": 392.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 9470000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "CUEN",
+      "security": "Cuentas Inc",
+      "total_amount": 12861,
+      "open_market_amount": 12861,
+      "num_transactions": 28,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "CUEN",
+          "security": "Cuentas Inc",
+          "reporting_name": "MAIMON SHALOM ARIK",
+          "relationship": "CEO",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "3,800",
+          "price": "0.55",
+          "amount": 2090.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "CUEN",
+          "security": "Cuentas Inc",
+          "reporting_name": "MAIMON SHALOM ARIK",
+          "relationship": "CEO",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "1,900",
+          "price": "0.7",
+          "amount": 1330.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "CUEN",
+          "security": "Cuentas Inc",
+          "reporting_name": "MAIMON SHALOM ARIK",
+          "relationship": "CEO",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "2,500",
+          "price": "0.42",
+          "amount": 1050.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "CUEN",
+          "security": "Cuentas Inc",
+          "reporting_name": "MAIMON SHALOM ARIK",
+          "relationship": "CEO",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "2,500",
+          "price": "0.39",
+          "amount": 975.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "CUEN",
+          "security": "Cuentas Inc",
+          "reporting_name": "MAIMON SHALOM ARIK",
+          "relationship": "CEO",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "2,500",
+          "price": "0.37",
+          "amount": 925.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 4840000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "RCG",
+      "security": "RENN Fund Inc",
+      "total_amount": 11491,
+      "open_market_amount": 11491,
+      "num_transactions": 5,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "RCG",
+          "security": "RENN Fund Inc",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "756",
+          "price": "3.06",
+          "amount": 2313.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "RCG",
+          "security": "RENN Fund Inc",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "756",
+          "price": "3.05",
+          "amount": 2306.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "RCG",
+          "security": "RENN Fund Inc",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "756",
+          "price": "3.04",
+          "amount": 2298.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "RCG",
+          "security": "RENN Fund Inc",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "756",
+          "price": "3.03",
+          "amount": 2291.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "RCG",
+          "security": "RENN Fund Inc",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "756",
+          "price": "3.02",
+          "amount": 2283.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "FIZZ",
+      "security": "NATIONAL BEVERAGE CORP",
+      "total_amount": 7945,
+      "open_market_amount": 7945,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "FIZZ",
+          "security": "NATIONAL BEVERAGE CORP",
+          "reporting_name": "WALDMAN GLENN J.",
+          "relationship": "Director",
+          "trans_date": "20 Jul 2026",
+          "open_market": true,
+          "shares": "250",
+          "price": "31.78",
+          "amount": 7945.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 2960000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
+      "symbol": "BMRC",
+      "security": "Bank of Marin Bancorp",
+      "total_amount": 5054,
+      "open_market_amount": 5054,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "BMRC",
+          "security": "Bank of Marin Bancorp",
+          "reporting_name": "ANDERSON NICOLAS C",
+          "relationship": "Director",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "175",
+          "price": "28.8783",
+          "amount": 5054.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 467660000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "DLPN",
+      "security": "Dolphin Entertainment Inc",
+      "total_amount": 4884,
+      "open_market_amount": 4884,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "DLPN",
+          "security": "Dolphin Entertainment Inc",
+          "reporting_name": "O'DOWD WILLIAM IV",
+          "relationship": "Chief Executive Officer",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "4,400",
+          "price": "1.11",
+          "amount": 4884.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 13540000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "GVH",
+      "security": "Globavend Holdings Ltd",
+      "total_amount": 4217,
+      "open_market_amount": 4217,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "GVH",
+          "security": "Globavend Holdings Ltd",
+          "reporting_name": "FUNG KAI MAN",
+          "relationship": "Director , 10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "4,634",
+          "price": "0.91",
+          "amount": 4217.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 2370000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "BCDA",
+      "security": "BioCardia Inc",
+      "total_amount": 3900,
+      "open_market_amount": 3900,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "BCDA",
+          "security": "BioCardia Inc",
+          "reporting_name": "ALTMAN PETER",
+          "relationship": "President and CEO",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "5,000",
+          "price": "0.78",
+          "amount": 3900.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 9230000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "GF",
+      "security": "NEW GERMANY FUND INC",
+      "total_amount": 3666,
+      "open_market_amount": 3666,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "GF",
+          "security": "NEW GERMANY FUND INC",
+          "reporting_name": "SABA CAPITAL MANAGEMENT, L.P.",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "325",
+          "price": "11.28",
+          "amount": 3666.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "TPL",
+      "security": "Texas Pacific Land Corp",
+      "total_amount": 2009,
+      "open_market_amount": 2009,
+      "num_transactions": 5,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "TPL",
+          "security": "Texas Pacific Land Corp",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "1",
+          "price": "423.94",
+          "amount": 424.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "TPL",
+          "security": "Texas Pacific Land Corp",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "1",
+          "price": "409.31",
+          "amount": 409.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "TPL",
+          "security": "Texas Pacific Land Corp",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "1",
+          "price": "394.14",
+          "amount": 394.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "TPL",
+          "security": "Texas Pacific Land Corp",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "28 Jul 2026",
+          "open_market": true,
+          "shares": "1",
+          "price": "393.09",
+          "amount": 393.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "TPL",
+          "security": "Texas Pacific Land Corp",
+          "reporting_name": "HORIZON KINETICS ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "1",
+          "price": "389.14",
+          "amount": 389.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 27770000000.0,
+      "cap_tier": "Large Cap"
+    },
+    {
+      "symbol": "PFSA",
+      "security": "Profusa Inc",
+      "total_amount": 1323,
+      "open_market_amount": 1323,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "PFSA",
+          "security": "Profusa Inc",
+          "reporting_name": "HRT FINANCIAL LP",
+          "relationship": "10%",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "1,310",
+          "price": "1.01",
+          "amount": 1323.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 192000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "ACOG",
+      "security": "Alpha Cognition Inc",
+      "total_amount": 1027,
+      "open_market_amount": 1027,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "ACOG",
+          "security": "Alpha Cognition Inc",
+          "reporting_name": "OPALEYE MANAGEMENT INC.",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "130",
+          "price": "7.9",
+          "amount": 1027.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 178550000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "FRAF",
+      "security": "FRANKLIN FINANCIAL SERVICES CORP",
+      "total_amount": 1025,
+      "open_market_amount": 1025,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "FRAF",
+          "security": "FRANKLIN FINANCIAL SERVICES CORP",
+          "reporting_name": "DUFFEY GREGORY A",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "16",
+          "price": "64.08",
+          "amount": 1025.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 278450000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "YQ",
+      "security": "17 Education & Technology Group Inc",
+      "total_amount": 931,
+      "open_market_amount": 931,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "YQ",
+          "security": "17 Education & Technology Group Inc",
+          "reporting_name": "LIU CHANG",
+          "relationship": "Chief Executive Officer, 10%",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "500",
+          "price": "1.8628",
+          "amount": 931.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 21600000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "KDOZF",
+      "security": "KIDOZ Inc",
+      "total_amount": 505,
+      "open_market_amount": 505,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "KDOZF",
+          "security": "KIDOZ Inc",
+          "reporting_name": "BEN TORA ELDAD",
+          "relationship": "Chief Strategy Officer",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "5,000",
+          "price": "0.101",
+          "amount": 505.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "NMZ",
+      "security": "NUVEEN MUNICIPAL HIGH INCOME OPPORTUNITY FUND",
+      "total_amount": 92,
+      "open_market_amount": 92,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "NMZ",
+          "security": "NUVEEN MUNICIPAL HIGH INCOME OPPORTUNITY FUND",
+          "reporting_name": "BANK OF AMERICA CORP",
+          "relationship": "10%",
+          "trans_date": "24 Jul 2026",
+          "open_market": true,
+          "shares": "9",
+          "price": "10.235",
+          "amount": 92.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": null,
+      "cap_tier": "Unclassified"
+    },
+    {
+      "symbol": "DLHC",
+      "security": "DLH Holdings Corp",
+      "total_amount": 51,
+      "open_market_amount": 51,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "DLHC",
+          "security": "DLH Holdings Corp",
+          "reporting_name": "MINK BROOK ASSET MANAGEMENT LLC",
+          "relationship": "10%",
+          "trans_date": "27 Jul 2026",
+          "open_market": true,
+          "shares": "10",
+          "price": "5.09",
+          "amount": 51.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 70580000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "NA",
+      "security": "FT Vest Total Return Income Fund: Series A2",
+      "total_amount": 30,
+      "open_market_amount": 30,
+      "num_transactions": 3,
+      "num_insiders": 3,
+      "officer_director_count": 1,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "NA",
+          "security": "FT Vest Total Return Income Fund: Series A2",
+          "reporting_name": "PECK MICHAEL D",
+          "relationship": "PRESIDENT",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "0.4",
+          "price": "22.71",
+          "amount": 10.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NA",
+          "security": "FT Vest Total Return Income Fund: Series A2",
+          "reporting_name": "CHAD EISENBERG",
+          "relationship": "TREASURER",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "0.4",
+          "price": "22.71",
+          "amount": 10.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "NA",
+          "security": "FT Vest Total Return Income Fund: Series A2",
+          "reporting_name": "FIRST TRUST CAPITAL MANAGEMENT L.P.",
+          "relationship": "ADVISER",
+          "trans_date": "23 Jul 2026",
+          "open_market": true,
+          "shares": "0.4",
+          "price": "22.71",
+          "amount": 10.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 42170000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "AVR",
+      "security": "Anteris Technologies Global Corp",
+      "total_amount": 28750000,
+      "open_market_amount": 0,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 0,
+      "cluster_buy": false,
+      "insider_grade": false,
+      "top_rows": [
+        {
+          "symbol": "AVR",
+          "security": "Anteris Technologies Global Corp",
+          "reporting_name": "L1 CAPITAL PTY LTD",
+          "relationship": "10%",
+          "trans_date": "22 Jan 2026",
+          "open_market": false,
+          "shares": "5,000,000",
+          "price": "5.75",
+          "amount": 28750000.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 760150000.0,
+      "cap_tier": "Small Cap"
+    },
+    {
+      "symbol": "FDBC",
+      "security": "FIDELITY D & D BANCORP INC",
+      "total_amount": 0,
+      "open_market_amount": 0,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "FDBC",
+          "security": "FIDELITY D & D BANCORP INC",
+          "reporting_name": "DELVECCHIO ROCCO",
+          "relationship": "Director",
+          "trans_date": "05 Dec 2025",
+          "open_market": true,
+          "shares": "25.5",
+          "price": "0",
+          "amount": 0.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 303500000.0,
+      "cap_tier": "Small Cap"
+    }
+  ]
+}
