@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T20:21:21.827996",
+  "generated_at": "2026-07-31T23:38:02.092170",
   "week": "2026-07-31",
   "top_signal": "SCTX",
   "rankings": [
@@ -225,7 +225,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 102810000.0,
+      "market_cap": 105680000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -444,7 +444,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 4940000.0,
+      "market_cap": 5110000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -519,7 +519,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 1430000000.0,
+      "market_cap": 1440000000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -807,7 +807,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 3040000000.0,
+      "market_cap": 3050000000.0,
       "cap_tier": "Mid Cap"
     },
     {
@@ -873,7 +873,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 594030000.0,
+      "market_cap": 590400000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -936,7 +936,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 602890000.0,
+      "market_cap": 603520000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -1075,9 +1075,9 @@
       "open_market_amount": 101572,
       "num_transactions": 1,
       "num_insiders": 1,
-      "officer_director_count": 0,
+      "officer_director_count": 1,
       "cluster_buy": false,
-      "insider_grade": false,
+      "insider_grade": true,
       "top_rows": [
         {
           "symbol": "BMI",
@@ -1119,7 +1119,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 51920000.0,
+      "market_cap": 53160000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1272,7 +1272,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 196830000.0,
+      "market_cap": 198160000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1372,9 +1372,9 @@
       "open_market_amount": 73820,
       "num_transactions": 3,
       "num_insiders": 1,
-      "officer_director_count": 0,
+      "officer_director_count": 1,
       "cluster_buy": false,
-      "insider_grade": false,
+      "insider_grade": true,
       "top_rows": [
         {
           "symbol": "TSM",
@@ -1440,7 +1440,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 275950000.0,
+      "market_cap": 280260000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1546,6 +1546,72 @@
       "cap_tier": "Large Cap"
     },
     {
+      "symbol": "LOOP",
+      "security": "Loop Industries Inc",
+      "total_amount": 51982,
+      "open_market_amount": 51982,
+      "num_transactions": 2,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "LOOP",
+          "security": "Loop Industries Inc",
+          "reporting_name": "GEYGAN JEFFREY RICHART",
+          "relationship": "Director",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "62,895",
+          "price": "0.75",
+          "amount": 47171.0,
+          "dir_ind": "I"
+        },
+        {
+          "symbol": "LOOP",
+          "security": "Loop Industries Inc",
+          "reporting_name": "GEYGAN JEFFREY RICHART",
+          "relationship": "Director",
+          "trans_date": "29 Jul 2026",
+          "open_market": true,
+          "shares": "6,610",
+          "price": "0.7278",
+          "amount": 4811.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 35300000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "DBD",
+      "security": "DIEBOLD NIXDORF Inc",
+      "total_amount": 50603,
+      "open_market_amount": 50603,
+      "num_transactions": 1,
+      "num_insiders": 1,
+      "officer_director_count": 1,
+      "cluster_buy": false,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "DBD",
+          "security": "DIEBOLD NIXDORF Inc",
+          "reporting_name": "TIMKO THOMAS S",
+          "relationship": "EVP, CFO",
+          "trans_date": "31 Jul 2026",
+          "open_market": true,
+          "shares": "700",
+          "price": "72.2898",
+          "amount": 50603.0,
+          "dir_ind": "I"
+        }
+      ],
+      "market_cap": 2500000000.0,
+      "cap_tier": "Mid Cap"
+    },
+    {
       "symbol": "EQBK",
       "security": "EQUITY BANCSHARES INC",
       "total_amount": 50429,
@@ -1623,7 +1689,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 33360000000.0,
+      "market_cap": 33330000000.0,
       "cap_tier": "Large Cap"
     },
     {
@@ -1752,7 +1818,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 499150000.0,
+      "market_cap": 498410000.0,
       "cap_tier": "Small Cap"
     },
     {
@@ -1857,7 +1923,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 48220000.0,
+      "market_cap": 47530000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -1908,7 +1974,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 65319999.99999999,
+      "market_cap": 63610000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2106,7 +2172,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 297970000.0,
+      "market_cap": 298830000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2181,7 +2247,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 9470000.0,
+      "market_cap": 9330000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2412,7 +2478,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 13540000.0,
+      "market_cap": 13280000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2479,6 +2545,45 @@
         }
       ],
       "market_cap": 2370000.0,
+      "cap_tier": "Micro Cap"
+    },
+    {
+      "symbol": "KWY",
+      "security": "KINGSWAY Corp",
+      "total_amount": 4059,
+      "open_market_amount": 4059,
+      "num_transactions": 2,
+      "num_insiders": 2,
+      "officer_director_count": 2,
+      "cluster_buy": true,
+      "insider_grade": true,
+      "top_rows": [
+        {
+          "symbol": "KWY",
+          "security": "KINGSWAY Corp",
+          "reporting_name": "FITZGERALD JOHN TAYLOR MALONEY",
+          "relationship": "President and CEO",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "278",
+          "price": "8.98",
+          "amount": 2496.0,
+          "dir_ind": "D"
+        },
+        {
+          "symbol": "KWY",
+          "security": "KINGSWAY Corp",
+          "reporting_name": "HANSEN KENT A",
+          "relationship": "CFO & EVP",
+          "trans_date": "30 Jul 2026",
+          "open_market": true,
+          "shares": "174",
+          "price": "8.98",
+          "amount": 1563.0,
+          "dir_ind": "D"
+        }
+      ],
+      "market_cap": 257910000.00000003,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2607,7 +2712,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 192000.0,
+      "market_cap": 197600.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2634,7 +2739,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 178550000.0,
+      "market_cap": 180290000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2820,7 +2925,7 @@
           "dir_ind": "D"
         }
       ],
-      "market_cap": 42170000.0,
+      "market_cap": 41250000.0,
       "cap_tier": "Micro Cap"
     },
     {
@@ -2847,7 +2952,7 @@
           "dir_ind": "I"
         }
       ],
-      "market_cap": 760150000.0,
+      "market_cap": 764050000.0,
       "cap_tier": "Small Cap"
     },
     {

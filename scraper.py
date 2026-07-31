@@ -42,7 +42,7 @@ LATEST_JSON = ROOT / "latest.json"
 
 OFFICER_DIRECTOR_KEYWORDS = [
     "director", "ceo", "cfo", "coo", "cto", "president", "chief",
-    "chairman", "officer", "evp", "svp",
+    "chairman", "officer", "evp", "svp", "vp",
 ]
 
 CAP_TIERS = ["Large Cap", "Mid Cap", "Small Cap", "Micro Cap", "Unclassified"]
@@ -284,7 +284,9 @@ def generate_html(ranked, top_signal, total_buy_count, total_buy_amount):
         if entry["cluster_buy"]:
             badges += f'<span class="badge cluster">Cluster · {entry["num_insiders"]} insiders</span>'
         if not entry["insider_grade"] and not entry["cluster_buy"]:
-            badges += '<span class="badge holder">10% Holder</span>'
+            badges += ('<span class="badge holder" title="Buyer owns 10%+ of the company '
+                       'but holds no officer/director role — a large shareholder, not an '
+                       'executive">10%+ Owner (not an exec)</span>')
         return badges
 
     def rows_html(entry):
