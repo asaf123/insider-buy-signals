@@ -98,6 +98,10 @@ def parse_rows(html):
             dir_ind = cells[10].get_text(strip=True) if len(cells) > 10 else ""
 
             amount = float(amount_raw.replace(",", "") or 0)
+            try:
+                shares_num = float(shares.replace(",", ""))
+            except ValueError:
+                shares_num = 0.0
         except (ValueError, IndexError):
             continue
 
@@ -112,6 +116,7 @@ def parse_rows(html):
             "trans_date": trans_date,
             "open_market": code_suffix == "",   # blank code = plain open-market "Purchase"
             "shares": shares,
+            "shares_num": shares_num,
             "price": price,
             "amount": amount,
             "dir_ind": dir_ind,
@@ -198,6 +203,7 @@ def group_and_rank(rows):
         "officer_director_insiders": set(),
         "total_amount": 0.0,
         "open_market_amount": 0.0,
+        "open_market_shares": 0.0,
     })
 
     for r in rows:
@@ -208,16 +214,20 @@ def group_and_rank(rows):
         g["total_amount"] += r["amount"]
         if r["open_market"]:
             g["open_market_amount"] += r["amount"]
+            g["open_market_shares"] += r["shares_num"]
             if is_officer_or_director(r["relationship"]):
                 g["officer_director_insiders"].add(r["reporting_name"])
 
     ranked = []
     for symbol, g in groups.items():
+        avg_price = (g["open_market_amount"] / g["open_market_shares"]
+                     if g["open_market_shares"] > 0 else None)
         ranked.append({
             "symbol": symbol,
             "security": g["security"],
             "total_amount": round(g["total_amount"]),
             "open_market_amount": round(g["open_market_amount"]),
+            "avg_buy_price": round(avg_price, 2) if avg_price is not None else None,
             "num_transactions": len(g["rows"]),
             "num_insiders": len(g["insiders"]),
             "officer_director_count": len(g["officer_director_insiders"]),
@@ -305,6 +315,7 @@ def generate_html(ranked, top_signal, total_buy_count, total_buy_amount):
     def card_html(rank, e, max_amount):
         bar_width = int((e["open_market_amount"] / max_amount) * 100) if e["open_market_amount"] else 2
         cap_label = fmt_money(e["market_cap"]) if e["market_cap"] else "n/a"
+        avg_price_label = f"${e['avg_buy_price']:,.2f}/share" if e["avg_buy_price"] is not None else "n/a"
         return f"""
         <div class="card">
             <div class="card-header">
@@ -318,6 +329,7 @@ def generate_html(ranked, top_signal, total_buy_count, total_buy_amount):
                 <span class="amount">{fmt_money(e['open_market_amount'])} open-market buys</span>
                 <span class="total">({fmt_money(e['total_amount'])} incl. non-open-market)</span>
             </div>
+            <div class="avg-price-row">Avg. buy price: <strong>{avg_price_label}</strong></div>
             <div class="badges">{badge_html(e)}</div>
             <div class="txns">{rows_html(e)}</div>
         </div>"""
@@ -351,6 +363,7 @@ def generate_html(ranked, top_signal, total_buy_count, total_buy_amount):
             <div class="top-pick-ticker">${top_signal['symbol']} <span>{top_signal['security']}</span></div>
             <div class="top-pick-tier">{top_signal['cap_tier']} · mkt cap {cap_label}</div>
             <div class="top-pick-amount">{fmt_money(top_signal['open_market_amount'])} in open-market insider buying</div>
+            <div class="top-pick-avg">Avg. buy price: {f"${top_signal['avg_buy_price']:,.2f}/share" if top_signal['avg_buy_price'] is not None else "n/a"}</div>
             <div class="top-pick-reason">{top_reason}</div>
         </div>"""
     else:
@@ -377,7 +390,8 @@ def generate_html(ranked, top_signal, total_buy_count, total_buy_amount):
   .top-pick-ticker {{ font-size:2rem; font-weight:800; color:#fff; }}
   .top-pick-ticker span {{ font-size:1rem; font-weight:400; color:#8b949e; display:block; margin-top:4px; }}
   .top-pick-tier {{ display:inline-block; color:#8b949e; font-size:0.8rem; background:#21262d; border-radius:20px; padding:3px 12px; margin-bottom:10px; }}
-  .top-pick-amount {{ font-size:1.15rem; color:#3fb950; margin:2px 0 8px; font-weight:700; }}
+  .top-pick-amount {{ font-size:1.15rem; color:#3fb950; margin:2px 0 4px; font-weight:700; }}
+  .top-pick-avg {{ color:#8b949e; font-size:0.85rem; margin-bottom:10px; }}
   .top-pick-reason {{ color:#c9d1d9; font-size:0.9rem; line-height:1.5; }}
   .tier-section {{ max-width:1200px; margin:0 auto 36px; }}
   .tier-title {{ font-size:1.15rem; font-weight:800; color:#fff; margin-bottom:14px; padding-left:4px; }}
@@ -394,6 +408,8 @@ def generate_html(ranked, top_signal, total_buy_count, total_buy_amount):
   .amount-row {{ display:flex; justify-content:space-between; align-items:baseline; margin-bottom:10px; flex-wrap:wrap; gap:6px; }}
   .amount {{ font-weight:700; color:#3fb950; }}
   .total {{ font-size:0.78rem; color:#8b949e; }}
+  .avg-price-row {{ font-size:0.8rem; color:#8b949e; margin-bottom:12px; }}
+  .avg-price-row strong {{ color:#c9d1d9; }}
   .badges {{ display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }}
   .badge {{ font-size:0.72rem; border-radius:20px; padding:3px 10px; border:1px solid; }}
   .badge.grade {{ color:#3fb950; border-color:#23863655; background:#23863622; }}
